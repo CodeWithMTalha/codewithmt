@@ -1,2 +1,4 @@
 # codewithmt
-This is my First Github project repository.
+This is my First GitHub project repository.
+<br/>
+Author: Muhammad Talha
